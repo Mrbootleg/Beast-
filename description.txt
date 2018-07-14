@@ -1,0 +1,57 @@
+Beast adds 121 new items, including but not limited to:
+10 New Swords
+11 New Guns
+5 New Yoyo's
+4 New Magic Weapons
+9 New Bow's
+8 New Pickaxes
+8 New Axes
+3 New WorkBenches
+9 New Bars
+3 New Materials
+19 New Armor Pieces
+4 New Bullets
+7 New Shields
+2 New Town NPCs
+1 New Drill
+1 New Chainsaw
+----------------------------------------------------------------------
+Expect Frequent Updates! Glitches? Bugs? Ideas? Message them to me! My steam username is Mrbootleg
+Patch Logs:
+V1.0.6.1
+I've missed you all, thanks for 2300+ downloads! I am not gone, far from it, i have been working hard on updates but ive just realised a major bug:
+- Fixed a bug that doesn't allow you to craft crimstone bars 
+V1.0.6 - Chaos Update
+This is the largest update yet, it adds 18 new items, including:
+- 1 New Ore to find in the cavern layer after defeating the EOC
+- 5 New Armor pieces
+- 1 New Vanity item
+- 1 New Bar 
+- 5 New Potions (Syringes) to heal health with no cooldown
+- 1 New Drill
+- 1 New Chainsaw
+- 1 New Bow
+- 1 New Sword
+- Set Bonuses now show the bonuses provided
+- Changed the description of some items
+- Used some bug repellent
+v1.0.5.3
+- Changed the required materials for some of the bars
+V1.0.5.2 
+- Grammar change in description 
+V1.0.5.1
+- Very minor bug fix
+- New Clout Hoodie animation
+V1.0.5 - Clout Update
+- 2 New Town NPCs: CloutMaster and Old Friend
+- A tiny bit of lore has been added
+- 3 New Leggings: CloutPants, HermesClout and UltimateBoots
+- 1 New Breastplate: CloutHoodie
+- Squashed some pesky bugs
+V1.0.2
+- 3 New Yoyos
+- 2 New Bows (Meaning that every bar has a bow along with it now)
+- Squashed a couple bugs
+- Made the advanced work station a post EOW/BOC item as to not break the game
+V1.0.1
+- Patched a bug where the wooden shield would set your defense rather then add to it
